@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints the phrase "Programming is like a multilingual puzzle
- * return 0 if exited properly
+ * main - Entry point
+ * Return: Always return 0 (Success)
  */
 int main(void)
 {

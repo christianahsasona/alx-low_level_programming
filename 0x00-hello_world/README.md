@@ -1,3 +1,1 @@
-[master 1910318] script that compiles a C file but does not link.
- 2 files changed, 3 insertions(+), 1 deletion(-)
- create mode 100755 0x00-hello_world/1-compiler
+2. script that generates the assembly code of a C code and save it in an output file.

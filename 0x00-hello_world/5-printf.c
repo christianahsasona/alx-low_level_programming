@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main-prints with proper grammar,
- * outcome is a piece of art,
- * Return : return 0 (Success)
+ * main-Entry Point
+ *
+ * Return : Always return 0 (Success)
  */
 int main(void)
 {

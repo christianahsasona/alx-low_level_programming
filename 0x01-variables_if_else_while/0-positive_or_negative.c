@@ -3,25 +3,23 @@
 #include <stdio.h>
 
 /**
-* main - assigns a random number to n always
-* RETURN: always 0 (SUCCESS)
+* main - assigns a random number to n
+* RETURN: Always 0 (SUCCESS)
 */
 int main(void)
 {
-        int n;
-
-        srand(time(0));
-        n = rand() - RAND_MAX / 2;
-        if (n<0){
-                printf("%d is negative\n", n);
+	int n;
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
+	if (n<0){
+		printf("%d is negative\n", n);
         }
-        else if (n==0){
-                printf("%d is zero\n", n);
+	else if (n==0){
+		printf("%d is zero\n", n);
         }
-        else if (n>0){
-        	printf("%d is positive\n", n );
-		}
-                
-        return (0);
+	else if (n>0){
+		printf("%d is positive\n", n );
+	}
+	return (0);
 }
 

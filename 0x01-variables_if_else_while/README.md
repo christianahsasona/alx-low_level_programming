@@ -1,1 +1,1 @@
-3. program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
+4. program that prints the alphabet in lowercase, followed by a new line.Print all letters except q and e

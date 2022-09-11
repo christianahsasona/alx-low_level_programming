@@ -1,1 +1,1 @@
-8. program that prints all the numbers of base 16 in lowercase, followed by a new line using putchar function
+9. program that prints all possible combinations of single-digit numbers

@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
-*main - program that outputs base 10 
-*single digits and then a new line using putchar() command
-*
-* Return: Always 0 (Success)
-*/
+ * main - program that prints base 10 single digits
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int x;

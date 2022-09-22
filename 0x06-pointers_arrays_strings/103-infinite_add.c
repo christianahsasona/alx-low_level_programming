@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * *_infinite_add - function that adds two numbers
+ * infinite_add - function that adds two numbers
  * @n1: The first number to be added
  * @n2: the second number to be added to first number
  * @r: Buffer that infinite will use to store the result
- * @sise_r: Buffer size
+ * @size_r: Buffer size
  *
  * Return: 0 when the result can not be stored in r, else 1.
  */

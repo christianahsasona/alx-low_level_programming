@@ -6,3 +6,5 @@
 - file 2: Function that concatenates two strings.
 - file 3: Function that returns a pointer to a 2 dimensional array of integers.
 - file 4: Function that frees a 2 dimensional grid previously created by your alloc_grid function.
+- file 100: function that concatenates all the arguments of your program
+- file 101: function that splits a string into word
